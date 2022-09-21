@@ -12,12 +12,12 @@ html {
 
 }
 
-br {
+/* br {
     display: block;
     margin-bottom: 2000px;
     font-size: 2px;
     line-height: 2px;
-}
+} */
 a{
     color:#00933f;
     text-decoration: none;
